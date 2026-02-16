@@ -25,7 +25,7 @@ Make sure you have [Go installed](https://go.dev/dl/) on your machine.
 
 1.  **Clone the repository** (or create the folder):
     ```bash
-    git clone [https://github.com/yourusername/user-cli.git](https://github.com/yourusername/user-cli.git)
+    git clone [https://github.com/abhyuday-fr/User-Manager-CLI.git](https://github.com/abhyuday-fr/User-Manager-CLI.git)
     cd user-cli
     ```
 
